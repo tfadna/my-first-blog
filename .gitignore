@@ -7,4 +7,5 @@ db.sqlite3
 /static
 .DS_Store
 mysite
+mysite2
 git_memo.txt
